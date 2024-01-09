@@ -1,3 +1,6 @@
+// this code contain only the fucntional code.No header files and main function is included.
+
+
 class Solution {
 public:
     void inorder(TreeNode *root,vector<int>&ans)
